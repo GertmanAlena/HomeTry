@@ -24,7 +24,8 @@ public class Model {
             secondMass = new Integer[length];
             System.out.println("генерируем второй массив");
             for (int i = 0; i < length; i++){
-                secondMass[i] = 0;
+                secondMass[i] = ((int)(Math.random() * 31) - 15);
+//                secondMass[i] = 0;
             }
             return secondMass;
         }

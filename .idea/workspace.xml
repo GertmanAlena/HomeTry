@@ -53,7 +53,7 @@
       <updated>1671293292449</updated>
       <workItem from="1671293294270" duration="871000" />
       <workItem from="1671370748497" duration="16435000" />
-      <workItem from="1671389362899" duration="323000" />
+      <workItem from="1671389362899" duration="721000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;сделала исключения&quot;">
       <created>1671389075740</created>
@@ -76,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671389380872</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;в модели 28 строчка чтобы делить на 0&quot;">
+      <created>1671389690538</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671389690538</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

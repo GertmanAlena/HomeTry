@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e98050b2-6291-4437-b7cf-de99c56be827" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model.java" afterDir="false" />
-    </list>
+    <list default="true" id="e98050b2-6291-4437-b7cf-de99c56be827" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +39,8 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -53,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1671293292449</updated>
       <workItem from="1671293294270" duration="871000" />
-      <workItem from="1671370748497" duration="16208000" />
+      <workItem from="1671370748497" duration="16435000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;сделала исключения&quot;">
       <created>1671389075740</created>
@@ -62,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671389075740</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;в модели 28 строчка чтобы делить на 0&quot;">
+      <created>1671389144033</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671389144033</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,6 +76,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;сделала исключения&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;сделала исключения&quot;" />
+    <MESSAGE value="&quot;в модели 28 строчка чтобы делить на 0&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;в модели 28 строчка чтобы делить на 0&quot;" />
   </component>
 </project>

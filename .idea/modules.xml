@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HomeWorkException.iml" filepath="$PROJECT_DIR$/HomeWorkException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWorkTwo/HomeWorkTwo.iml" filepath="$PROJECT_DIR$/HomeWorkTwo/HomeWorkTwo.iml" />
     </modules>
   </component>
 </project>

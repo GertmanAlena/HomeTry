@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e98050b2-6291-4437-b7cf-de99c56be827" name="Changes" comment="" />
+    <list default="true" id="e98050b2-6291-4437-b7cf-de99c56be827" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HomeWorkTwo/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +39,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/studies/JAVA/mvpMyFamilyTree&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -53,7 +58,9 @@
       <updated>1671293292449</updated>
       <workItem from="1671293294270" duration="871000" />
       <workItem from="1671370748497" duration="16435000" />
-      <workItem from="1671389362899" duration="721000" />
+      <workItem from="1671389362899" duration="1917000" />
+      <workItem from="1671565396521" duration="3656000" />
+      <workItem from="1671641233405" duration="2534000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;сделала исключения&quot;">
       <created>1671389075740</created>
@@ -83,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671389690538</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="&quot;в модели 28 строчка чтобы делить на 0&quot;">
+      <created>1671390173347</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671390173347</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

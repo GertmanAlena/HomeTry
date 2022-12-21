@@ -7,24 +7,23 @@ public class Main {
 
     public static void main(String[] args) {
 
-                                            // Задание 1
-        System.out.println(numFloat());
-    }
-    public static float numFloat() {
-        while (true) {
-            try {
-                Scanner scanner = new Scanner(System.in);
-                System.out.print("Введите дробное число: ");
-                float x = scanner.nextFloat();
-                return x;
-            } catch (InputMismatchException e) {
-                System.out.println("Вы ввели не верно, попробуйте ещё раз!!!");
-            }
-        }
-    }
-                                                          // Задание 2
+        // Задание 1
+//        System.out.println(numFloat());
+//    }
+//    public static float numFloat() {
+//        while (true) {
+//            try {
+//                Scanner scanner = new Scanner(System.in);
+//                System.out.print("Введите дробное число: ");
+//                float x = scanner.nextFloat();
+//                return x;
+//            } catch (InputMismatchException e) {
+//                System.out.println("Вы ввели не верно, попробуйте ещё раз!!!");
+//            }
+//        }
+//    }
+        // Задание 2
 
-//        System.out.println(num());
 //        Integer[] intArray = new Integer[10];
 //        intArray = num(intArray);
 //        numTest(intArray);
@@ -40,16 +39,16 @@ public class Main {
 //            System.out.println("Catching exception: " + e);
 //        }
 //    }
-//    public static Integer[] num(Integer[] intArray){
+//    public static Integer[] num(Integer[] intArray) {
 //        //        Integer[] array = new Integer[10];
-//        while (true){
+//        while (true) {
 //            try {
 //                for (int j = 0; j < intArray.length; j++) {
 //                    Scanner scanner = new Scanner(System.in);
 //                    System.out.print("Введите число: ");
 //                    Integer x = scanner.nextInt();
 //                    intArray[j] = x;
-//                }
+//                 }
 //            } catch (InputMismatchException e) {
 //                System.out.println("Вы ввели не верно, попробуйте ещё раз!!!");
 //            }
@@ -58,7 +57,8 @@ public class Main {
 //            }
 //            return intArray;
 //        }
-                                                // Задание 3
+//    }
+        // Задание 3
 
 //        public static void main(String[] args) throws Exception {
 //            try {
@@ -81,6 +81,20 @@ public class Main {
 //        }
 
 
+        String name;
+            Scanner scanner = new Scanner(System.in);
+            while (true){
+                System.out.println("Введите Ваше имя");
+                name = scanner.nextLine();
+                if(name.isEmpty()) {
+                    System.out.println("Вы ничего не ввели, попробуйте ещё раз!!");
+                }
+                else System.out.println("Ваше имя " + name);
+
+            }
+
+
+        }
 
 
 }
